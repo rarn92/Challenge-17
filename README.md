@@ -1,6 +1,6 @@
-# Regex Tutorial
+# Gist URL
 
-gist url: https://gist.github.com/rarn92/39239feef06f65964e4b93bce33dbe0f
+https://gist.github.com/rarn92/39239feef06f65964e4b93bce33dbe0f
 
 # Regex Guide
 
