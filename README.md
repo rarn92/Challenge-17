@@ -2,9 +2,7 @@
 
 gist url: https://gist.github.com/rarn92/39239feef06f65964e4b93bce33dbe0f
 
-# Title (replace with your title)
-
-Introductory paragraph (replace this with your text)
+# Regex Guide
 
 ## Summary
 
